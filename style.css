@@ -11,6 +11,10 @@ h2{
 h3{
     font-size: 25px;
 }
+h4{
+    font-size: 22px;
+    font-weight: bolder;
+}
 p{
     text-align: justify;
 }
@@ -38,7 +42,16 @@ p{
     padding-left: 2%;
     padding-right: 2%;
 }
+.one-third-width{
+    width: 27.3%;
+    border: 20px solid white;
+    border-radius: 25px;
+    box-shadow: 0px 0px 15px 0px gainsboro;
+}
 .half-width img{
+    width: 100%;
+}
+.one-third-width img{
     width: 100%;
 }
 #about-me{
@@ -64,4 +77,27 @@ p{
     text-align: center;
     padding-left: 250px;
     padding-right: 250px;
+}
+#first-margin{
+    margin-left: 6%;
+}
+#second-margin{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#third-margin{
+    margin-right: 6%;
+}
+.food-network-id{
+    text-align: center;
+}
+#NETWORK-ID{
+    color: gray;
+}
+#bg-foodnetwork{
+    background-color: black;
+}
+#white-id{
+    color: whitesmoke;
+    font-size: 10px;
 }
