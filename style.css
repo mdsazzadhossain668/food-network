@@ -8,6 +8,9 @@ h1{
 h2{
     font-size: 30px;
 }
+h3{
+    font-size: 25px;
+}
 p{
     text-align: justify;
 }
@@ -53,4 +56,12 @@ p{
 #about-padding{
     padding-right: 150px;
     padding-left: 50px;
+}
+#my-recipies{
+    text-align: center;
+}
+#recipies-padding{
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
 }
